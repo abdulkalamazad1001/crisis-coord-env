@@ -71,11 +71,4 @@ Our training results demonstrate that the LLM successfully learned to balance ex
 
 ---
 
-## ⚖️ Judging Compliance Matrix
-- [x] **Usage of OpenEnv**: Environment inherits from `openenv.Environment`.
-- [x] **TRL/Unsloth Script**: Functional GRPO script provided in Colab.
-- [x] **Evidence of Training**: Real reward/loss plots committed to `results/plots/`.
-- [x] **HF Hosted**: Environment live on Spaces.
-- [x] **No Hardcoding**: Decision logic is fully learned by the LLM weights.
-
 *Built with 🚑 by Team Axiom for the OpenEnv Hackathon 2026.*
