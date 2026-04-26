@@ -35,7 +35,8 @@ def train():
         output_dir="./results",
         learning_rate=5e-6,
         num_train_epochs=1,
-        per_device_train_batch_size=1,
+        per_device_train_batch_size=4,
+        num_generations=4,
     )
 
     # 6. Trainer
