@@ -34,11 +34,8 @@ def train():
     training_args = GRPOConfig(
         output_dir="./results",
         learning_rate=5e-6,
+        num_train_epochs=1,
         per_device_train_batch_size=1,
-        gradient_accumulation_steps=4,
-        max_prompt_length=1024,
-        max_completion_length=256,
-        num_generations=4,
     )
 
     # 6. Trainer
