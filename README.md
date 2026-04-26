@@ -14,7 +14,7 @@
 | :--- | :--- |
 | 🎮 **Hugging Face Space** | [CrisisCoord Command Center](https://huggingface.co/spaces/abdulkalamazad07/crisis-coord-commander) |
 | 🧪 **Training Lab (Colab)** | [GRPO Training Notebook](https://colab.research.google.com/drive/16wRZhiYC-hOkpAlmSK_rcOIup06xuAv_?usp=sharing) |
-| 🎬 **2-Min Video Demo** | [Watch on YouTube](https://youtube.com/watch?v=your-video) |
+| 🎬 **2-Min Video Demo** | [Video Link](https://www.youtube.com/watch?v=FXaAjdXeo-c) |
 | 📦 **GitHub Repository** | [abdulkalamazad1001/crisis-coord-env](https://github.com/abdulkalamazad1001/crisis-coord-env) |
 
 ---
