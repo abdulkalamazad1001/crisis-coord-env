@@ -71,4 +71,4 @@ Our training results demonstrate that the LLM successfully learned to balance ex
 
 ---
 
-*Built with 🚑 by Team Axiom for the OpenEnv Hackathon 2026.*
+*Built by Team Axiom for the OpenEnv Hackathon 2026.*
