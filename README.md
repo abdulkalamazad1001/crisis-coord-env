@@ -31,6 +31,9 @@ We don't just reward the agent for "saving lives." We use **Composable Rubrics**
 ![Reward Curve](results/plots/reward_comparison.png)
 *Comparison of total reward across episodes for Random, Greedy, and Trained agents.*
 
+![Real Training Curve](results/plots/training_curve.png)
+*Real GRPO training run (12 steps, 3 epochs) on Google Colab — reward climbs above the Greedy Baseline by step 7.*
+
 ## 🎮 Try It Yourself
 Visit our [HuggingFace Space](https://huggingface.co/spaces/abdulkalamazad07/crisis-coord-commander) to interact with the environment!
 
