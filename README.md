@@ -32,7 +32,10 @@ We don't just reward the agent for "saving lives." We use **Composable Rubrics**
 *Comparison of total reward across episodes for Random, Greedy, and Trained agents.*
 
 ## 🎮 Try It Yourself
-Visit our [HuggingFace Space](https://huggingface.co/spaces/crisis-coord) to interact with the environment!
+Visit our [HuggingFace Space](https://huggingface.co/spaces/abdulkalamazad07/crisis-coord-commander) to interact with the environment!
+
+## 🧪 Training Lab
+You can verify our training pipeline and re-run the results in this [Google Colab Notebook](https://colab.research.google.com/drive/16wRZhiYC-hOkpAlmSK_rcOIup06xuAv_?usp=sharing).
 
 ## 📚 Technical Details
 - **Architecture**: OpenEnv-compliant Gym environment.
