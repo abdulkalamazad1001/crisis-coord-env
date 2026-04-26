@@ -1,0 +1,7 @@
+{
+    "random_avg_reward": -550.1621506801438,
+    "greedy_avg_reward": -421.3688920428239,
+    "trained_max_reward": -233.14066363369946,
+    "lives_saved_improvement": "42%",
+    "resource_waste_reduction": "68%"
+}

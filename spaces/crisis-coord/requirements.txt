@@ -1,0 +1,5 @@
+gradio
+gym==0.26.2
+numpy
+matplotlib
+pandas

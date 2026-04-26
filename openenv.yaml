@@ -1,0 +1,25 @@
+version: "1.0"
+name: "crisis-coord"
+description: "Multi-agent disaster response coordination environment"
+entry_point: "environment.crisis_env:CrisisEnv"
+reward_type: "composable"
+rubrics:
+  - name: "lives_saved"
+    weight: 0.4
+    path: "rubrics.lives_saved:LivesSavedRubric"
+  - name: "fairness"
+    weight: 0.2
+    path: "rubrics.fairness:FairnessRubric"
+  - name: "resource_efficiency"
+    weight: 0.25
+    path: "rubrics.resource_efficiency:ResourceEfficiencyRubric"
+  - name: "adaptation"
+    weight: 0.15
+    path: "rubrics.adaptation:AdaptationRubric"
+observation_space:
+  type: "dict"
+  description: "Partial observation of locations, teams, and resources"
+action_space:
+  type: "json"
+  description: "Structured JSON actions for allocation and deployment"
+max_steps: 100
